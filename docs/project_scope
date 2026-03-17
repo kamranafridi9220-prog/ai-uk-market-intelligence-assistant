@@ -1,0 +1,43 @@
+# Project Scope
+
+## Core Goal
+
+Build an AI-powered assistant that can answer market intelligence questions using UK business data.
+
+## Phase 1
+- project blueprint
+- repository structure
+- dataset selection
+- core business questions
+
+## Phase 2
+- data cleaning
+- exploratory analysis
+- insight design
+- chart generation
+
+## Phase 3
+- Streamlit interface
+- filters and summaries
+- user question handling
+
+## Phase 4
+- AI integration
+- prompt design
+- answer generation
+- decision-support suggestions
+
+## Phase 5
+- GitHub documentation
+- screenshots
+- Medium article
+- LinkedIn publication
+
+## Success Criteria
+
+The final system should:
+- answer natural-language questions
+- show supporting charts and insights
+- use real UK business data
+- demonstrate clear business relevance
+- function as a portfolio-grade flagship project
